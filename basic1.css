@@ -1,0 +1,123 @@
+body{
+    background-color: #c7eef1;
+}
+
+#title{
+    height: 800px;
+    width: 100%;
+    background-image: url(166896.jpg); 
+    padding: 10px;
+
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+nav{
+    background-color: rgb(67, 198, 203);
+    font-size: medium;
+    background-position: 50%;
+    text-align: justify;
+    
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    padding-left: 10px;
+ font-weight: 500;
+}
+
+.row{
+    padding-top: 15px;
+
+}
+.btn{
+    text-align: center;
+    padding: 5px;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+#features{
+  box-sizing: content-box;
+  padding: 7% 15%;
+  background-color: rgb(95, 145, 147);
+  position: relative;
+}
+.col-lg-4{
+    text-align: center;
+
+}
+h1{
+    font-family: 'Montserrat-black', sans-serif;
+  size: 3rem;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+.map{
+    height: 450px; width: 260px;
+    margin: 30px 50px;
+    transform: rotate(15deg);
+    position: absolute;
+}
+
+h3{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-transform: capitalize;
+}
+p{
+    font-style: oblique;
+}
+.fa-4x{
+    margin-bottom: 1rem;
+}
+.fa-4x:hover{
+    color: rgb(67, 198, 203);
+}
+.textimonials{
+    padding: 7% 15%;
+    background-color:rgb(67, 198, 203) ;
+    text-align: center;
+color:black;
+text-decoration: solid;
+}
+.textinomials-img{
+ width: 10%;
+
+ border-radius: 100%;
+}
+ #carouselExampleCaptions{
+    padding: 0% 15% ;
+    background-color:rgb(95, 145, 147) ;
+    height: fit-content;
+}
+
+
+.container-card{
+    padding: 3% 15%;
+    background-color:rgb(67, 198, 203) ;
+}
+
+#card{
+background-color:  #c7eef1;
+}
+
+
+.card-body{
+    background-color:rgb(67, 198, 203) ;
+}
+.alig{
+    margin-bottom: 0;
+    align-items: center;
+    background-color:rgb(95, 145, 147) ;
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.coard1{
+    margin: 0%;
+}
+.card12{
+ 
+   padding: 1rem; 
+}
